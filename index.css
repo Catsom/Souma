@@ -1,0 +1,17 @@
+body{
+  background-color: white;
+}
+
+.souma h1{
+color: #dbc746;
+}
+
+.souma p{
+color: #db9346;
+font-weight: bold;
+}
+
+img {
+  width: 20%;
+  pointer-events: none;
+}
